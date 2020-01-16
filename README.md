@@ -14,7 +14,7 @@
 
 
 
-## 预览  
+## 游戏截图    
 <center>
 <img src="img/3.png" alt="1" style="width:50%;" /><img src="img/4.png" alt="1" style="width:50%" />
 <img src="img/11.png" alt="1" style="width:50%;" /><img src="img/6.png" alt="1" style="width:50%;" />
