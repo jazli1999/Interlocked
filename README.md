@@ -26,7 +26,7 @@
 
 ## 团队成员 
 
-@[Evan Li](https://github.com/IanLi1999) 
+@[Jaz Li](https://github.com/IanLi1999) 
 @[BY-Tang](https://github.com/BYTang314) 
 @[StardustJK](https://github.com/StardustJK) 
 @[lxmbjt](https://github.com/lxmbjt) 
